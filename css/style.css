@@ -1,0 +1,114 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #724D4D;
+}
+
+.header-logo {
+    height: 50px;
+    width: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top-nav {
+    padding: 10px;
+}
+
+.top-nav-link {
+    color: black;
+    padding-right: 10px;
+}
+
+.top-btn {
+    margin-top: -50px;
+}            
+
+.more-btn {
+    background-color: black;
+    border: none;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+}
+
+#topMain {
+    background-color: #d4716f;
+}
+
+.specialty-text, .specialty-img {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.heading {
+    padding-bottom: 30px;
+}
+
+.order-btn {
+    background-color: black;
+    border: none;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    padding: 15px 60px;
+}
+
+#middleMain {
+    background-color: #d4716f;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.product-header {
+    padding-bottom: 20px;
+}
+
+.card {
+    background-color: #724D4D;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.add-btn {
+    background-color: black;
+    color: white;
+}
+
+.footer {
+    background-color: #724D4D;
+    padding-top: 50px;
+}
+
+#topFooter {
+    border-bottom: 1px solid black;
+}
+
+.footer-logo {
+    margin-top: -50px;
+}
+
+.footer-link {
+    color: black;
+    padding-bottom: 15px;
+}
+
+.colophon1, .colophon2 {
+    padding-top: 70px;
+}
+
+#socialSection {
+    padding-top: 60px;
+}
+
+.social-link {
+    color: #d4716f;
+}
